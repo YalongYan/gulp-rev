@@ -33,7 +33,7 @@ gulp给css js img 增加版本号
 #                replacement: '$1' + manifest[key]
 #                    });
 #改为
-#var afterDelim = '[\?A-Za-z0-9_\=]*'
+#var afterDelim = '[\?A-Za-z0-9_\=]*';
 #changes.push({
 #regexp: new RegExp( prefixDelim + pattern+afterDelim, 'g' ),
 #patternLength: pattern.length,
