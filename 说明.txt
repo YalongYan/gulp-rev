@@ -1,4 +1,4 @@
-#直接 cnpm 安装依赖
+#直接 cnpm  install安装依赖
 
 打开node_modules\gulp-rev\index.js
 第135行 manifest[originalFile] = revisionedFile;
